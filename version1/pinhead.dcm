@@ -1,0 +1,11 @@
+EESchema-DOCLIB Version 2.3
+#
+$CMP PINHD-1X2
+D PIN HEADER
+$ENDCMP
+#
+$CMP PINHD-1X2/90
+D PIN HEADER
+$ENDCMP
+#
+#End Library

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Arduino_Wifi_shield_v018_tG)(type KiCad)(uri "$(KIPRJMOD)\\Arduino_Wifi_shield_v018_tG.pretty")(options "")(descr ""))
+  (lib (name con-harting-ml)(type KiCad)(uri "$(KIPRJMOD)\\con-harting-ml.pretty")(options "")(descr ""))
+  (lib (name con-molex)(type KiCad)(uri "$(KIPRJMOD)\\con-molex.pretty")(options "")(descr ""))
+  (lib (name diode)(type KiCad)(uri "$(KIPRJMOD)\\diode.pretty")(options "")(descr ""))
+  (lib (name pinhead)(type KiCad)(uri "$(KIPRJMOD)\\pinhead.pretty")(options "")(descr ""))
+)

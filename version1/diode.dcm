@@ -1,0 +1,11 @@
+EESchema-DOCLIB Version 2.3
+#
+$CMP 1N4148DO35-10
+D DIODE; high speed (Philips)
+$ENDCMP
+#
+$CMP 1N4148DO35-7
+D DIODE; high speed (Philips)
+$ENDCMP
+#
+#End Library
